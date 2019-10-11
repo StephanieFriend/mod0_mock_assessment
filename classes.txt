@@ -1,0 +1,15 @@
+Class:
+chair (class)
+
+Attributes:
+type (string)
+color (string)
+hard (boolean)
+legs (integer)
+pattern (boolean)
+
+Methods:
+reupholster (can change the pattern attribute to true or false)
+change_color (changes the color attribute)
+add_seat_cushion (changes the hard attribute to false)
+cut_off_a_leg (subtracts 1 from the legs attribute) 
