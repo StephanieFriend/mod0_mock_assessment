@@ -1,0 +1,31 @@
+Class:
+chair (class)
+
+Attributes:
+type (string)
+color (string)
+hard (boolean)
+legs (integer)
+pattern (boolean)
+
+Instances:
+bar stool (instance)
+type 'stool'
+color 'brown'
+hard True
+legs 3
+pattern False
+
+lazy boy (instance)
+type 'recliner'
+color 'white'
+hard False
+legs 2
+pattern False
+
+rocking chair (instance)
+type 'rocking'
+color 'blue/white'
+hard False
+legs 0
+pattern True 
