@@ -1,0 +1,44 @@
+1 decide on sandwich
+  1.1 open the fridge
+    1.1.1 see available lunch meet
+    1.1.2 see available cheese
+  1.2 open the pantry
+    1.2.1 see available bread
+2 gather ingredients
+  2.1 open the fridge
+    2.1.1 take out lunch meat
+    2.1.2 take out cheese
+    2.1.3 take out mayonnaise
+    2.1.4 take out lettuce/tomato
+  2.2 open the pantry
+    2.2.1 take out bread loaf
+3 gather kitchen utensils
+  3.1 open cabinet
+    3.1.1 take out plate
+  3.2 open drawer
+    3.2.1 take out knife
+      3.2.1.1 a spreading knife
+      3.2.1.2 a cutting knife
+      3.2.1.3 a bread knife
+4 prepping ingredients
+  4.1 cut the bread loaf
+    4.1.1 take out the bread knife
+    4.1.2 cut 2 even slices of bread off loaf
+  4.2 cut the cheese
+    4.2.1 take the cutting knife
+    4.2.2 cut one thin slice of cheese
+  4.3 slice the lunch meat
+    4.3.1 take the cutting knife
+    4.3.2 cut 4 even slices of meat
+  4.4 slice the lettuce/tomato
+    4.4.1 wash the lettuce/tomato
+    4.4.2 take the cutting knife
+    4.4.3 cut 2 slices of tomato
+    4.4.4 peal 2 sheets of lettuce
+5 assembling sandwich
+  5.1 place slices of bread on plate
+  5.2 spread mayonnaise on both slices
+  5.3 place slice of cheese
+  5.4 add the slices of lunch meat
+  5.5 top with lettuce/tomato
+  5.6 place the other slice of bread on top
